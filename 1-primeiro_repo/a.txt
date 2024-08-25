@@ -1,6 +1,0 @@
-Testando
-uma
-atualização
-de arquivo
-2
-aqui se alterou a segunda branch
